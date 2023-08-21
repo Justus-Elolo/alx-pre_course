@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "ALX"
+*c
+pwd
+C-x
+:wq
+*U
